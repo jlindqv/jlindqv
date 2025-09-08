@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello there!
 
-<!--
-**jlindqv/jlindqv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer scratching an itch. Hope you find something useful here.  
+Most projects are minimal and focused, usually solving one problem at a time.
 
-Here are some ideas to get you started:
+More to come!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Selected projects
+
+- [keyword-webhook](https://github.com/jlindqv/keyword-webhook)  
+  Sends email alerts when keywords appear in RSS feeds. Minimal PHP with optional Docker support.
+
+- [nordic-posters-rss-bridge](https://github.com/jlindqv/nordic-posters-rss-bridge)  
+  A custom RSS-Bridge providing an RSS feed of up to 200 latest film posters from nordicposters.se.
+
+---
+
+*Thanks for stopping by!*
