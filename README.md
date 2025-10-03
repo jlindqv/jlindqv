@@ -9,6 +9,9 @@ More to come!
 
 ## Selected projects
 
+- [usenetflix](https://github.com/jlindqv/usenetflix)  
+  Turn NZB files into movie entries in Kodi and push them to SABnzbd.
+
 - [keyword-webhook](https://github.com/jlindqv/keyword-webhook)  
   Sends email alerts when keywords appear in RSS feeds. Minimal PHP with optional Docker support.
 
